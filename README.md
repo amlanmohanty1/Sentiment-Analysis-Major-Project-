@@ -6,7 +6,7 @@ This is a real world project on Sentiment Analysis which takes in text input fro
 
   1. Gathering of data: The amazonreviews dataset from Kaggle was used for this project.
   
-  2. Preprocessing of data: 
+  2. Preprocessing of the data: 
         - Lower casing the text
         - Expanding contractions
         - Removing punctuations and special characters
