@@ -2,11 +2,11 @@
 
 This is a real world project on Sentiment Analysis which takes in text input from the user and predicts if the sentiment of the text is positive or negative.
 
-# Steps followed in making the project 
+# Steps followed in making the project
 
   1. Gathering of data: The amazonreviews dataset from Kaggle was used for this project.
   
-  2. Preprocessing of data: 
+  2. Preprocessing of the data: 
         - Lower casing the text
         - Expanding contractions
         - Removing punctuations and special characters
